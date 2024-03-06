@@ -19,3 +19,7 @@ Demo below:
 
 https://github.com/AmritpalChera/shirtPicker/assets/52187061/dff552be-8d5e-4858-a488-2ea3fddf62b6
 
+
+
+<p>This project was designed following the tutorial from JavaScript Mastery. https://www.youtube.com/@javascriptmastery</p>
+
