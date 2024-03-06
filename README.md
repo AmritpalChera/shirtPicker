@@ -3,6 +3,15 @@ This project is made following a tutorial for Three.JS. It uses react and react 
 
 <b>Goal: </b> To learn the basics of web 3d rendering and file manipulation. The next project will focus on interactive 3d characters. The end goal is to create a tool to automatically rig characters using AI to record visual demos.
 
+<b>To run:</b>
+```
+// install dependencies
+yarn install
+
+// run the react app
+yarn start
+```
+
 Demo below:
 
 
